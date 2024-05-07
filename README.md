@@ -6,8 +6,7 @@ If certain onion links don't function, there's a good probability that the serve
 Regards and a shout-out to everyone in the information security community, including security researchers, hackers, APTs, and ransomware gangs. 
 ![agorap26](https://github.com/intelshare/Marketplaces/assets/139314161/83a588c3-1d0c-4261-8064-489bf90390a2)
 
-All in One Forum: https://infected-zone.com/
-
+All in One Forum: 🤫👇
  >>> https://link-base.ms <<<<<<<<<
 
 
