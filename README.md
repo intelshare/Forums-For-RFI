@@ -16,7 +16,6 @@ Tables:
 |---|---|---|
 |Forums Name |Link | 
 Aresleaks |  https://liwkxe47gb2hhypbazusz6i4xsayv4nnkqceum2b25iyqbpacfhjlrqd.onion
-
 Nulled | https://www.nulled.to 
 Leakbase |https://leakbase.cc
 Aletene |altenens.is
@@ -40,7 +39,6 @@ Blackhatworld |https://www.blackhatworld.com
 Mazafaka |https://uwovoq3luqdzqkuy5ynjl3lxh2gqbib2ceb77kcbr47ww4oyqyiahuid.onion
 Hellforum |https://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion/
 Turk Hack Team |turkhackteam.org
-
 Crackingone |https://crackings.one/
 Cracking | https://cracking.org/
 Procrd | https://procrd.org/
