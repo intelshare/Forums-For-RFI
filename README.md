@@ -12,9 +12,8 @@ All in One Forum: 🤫👇
 
 Tables:
 
-|React|Angular|Node|
+|Forums Name|Links|
 |---|---|---|
-|Forums Name |Link | 
 Aresleaks |  https://liwkxe47gb2hhypbazusz6i4xsayv4nnkqceum2b25iyqbpacfhjlrqd.onion
 Nulled | https://www.nulled.to 
 Leakbase |https://leakbase.cc
