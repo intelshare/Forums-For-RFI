@@ -15,61 +15,53 @@ Tables:
 |Forums|Link||
 |---|---|---|
 |   |   |   |
-Aresleaks |  https://liwkxe47gb2hhypbazusz6i4xsayv4nnkqceum2b25iyqbpacfhjlrqd.onion
-Nulled | https://www.nulled.to 
-Leakbase |https://leakbase.cc
-Aletene |altenens.is
-XSS |xss.is
-RAMP |Ramp4u.io
-Exploitin |exploit.in
+Breachforums |http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion
+XSS |xss.is | https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion
+RAMP |Ramp4u.io | https://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
+Exploitin |exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
 Darkforum |darkforums.me
 Sinisterly |sinister.ly 
 Niflheim |niflheim.top 
-Noirth |noirth.com 
-0x00sec |0x00sec.org
-DemonForum |www.demonforums.net
-Eleaks |eleaks.to
-Enclave |enclave.to
-Leakzone |leakzone.com
-Hackonology |hackonology.com
-Hackforums |hackforums.net
-fssquad |fssquad.com
-Eternia |eternia.to
-Blackhatworld |https://www.blackhatworld.com
-Mazafaka |https://uwovoq3luqdzqkuy5ynjl3lxh2gqbib2ceb77kcbr47ww4oyqyiahuid.onion
-Hellforum |https://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion/
-Turk Hack Team |turkhackteam.org
-Crackingone |https://crackings.one/
-Cracking | https://cracking.org/
-Procrd | https://procrd.org/
-BHC forums |https://bhcforums.cc/
-Darknet |https://darknet.ug/
-DarkPID |https://darkpid.com/
-Getrekt | https://getrekt.me/
-Lolz |https://lolz.guru
-Veryleaks |https://veryleaks.cz/
-Ramp4u |https://ramp4u.io/
-Patched |https://patched.to/
-Level23 | https://level23hacktools.com/hackers/
-IN4 |https://in4.bz/
-DangeryThings |https://forum.dangerousthings.com/
-STYX | https://styxmarket.com/accounts/login/
-Xleet |https://xleet.pw
-Shadow forum |http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/
-Spyhacker |spyhackerz.org
-B1nd |B1nd.net
-Breachforums |http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/
+Nulled | https://www.nulled.to 
+Leakbase |https://leakbase.cc
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org/
-Alphv Forum |alphv.ru
+Alphv Forum |https://alphv.ru
 NextGenForums |Nextgenforums.cc
 Evil-Zone |Evil-zone.org
 Darkzone |Darkzone.uk
 Leech Forum |Leech.is
 Leakbase |Leakbase.io
+Aletene |altenens.is
+B1nd |B1nd.net
+DemonForum |www.demonforums.net
+Turk Hack Team |turkhackteam.org
+Leakzone |leakzone.com
+Hackonology |hackonology.com
+Hackforums |hackforums.net
+Noirth |noirth.com 
 LeadLab |https://leadlab.top/index.php
-OniGG |Oni.gg
 Raidforums|Raidforum.co
-Craxspro |https://craxpro.com/
+0x00sec |0x00sec.org
+1877x | https://1877.team/forums
+Blackhatworld |https://www.blackhatworld.com
+Hellforum |https://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion
+Crackingone |https://crackings.one
+Cracking | https://cracking.org
+Procrd | https://procrd.org
+BHC forums |https://bhcforums.cc
+Darknet |https://darknet.ug
+DarkPID |https://darkpid.com
+Getrekt | https://getrekt.me
+Veryleaks |https://veryleaks.cz
+Patched |https://patched.to
+Level23 | https://level23hacktools.com/hackers
+IN4 |https://in4.bz
+DangeryThings |https://forum.dangerousthings.com
+STYX | https://styxmarket.com/accounts/login
+Xleet |https://xleet.pw
+Shadow forum |http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion
+Spyhacker |spyhackerz.org
+Craxspro |https://craxpro.com
 
 
