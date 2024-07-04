@@ -46,18 +46,26 @@ Raidforums|Raidforum.co
 1877x | https://1877.team/forums
 Blackhatworld |https://www.blackhatworld.com
 Hellforum |https://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion
+365exe | https://www.365exe.com
 Crackingone |https://crackings.one
 Cracking | https://cracking.org
 Procrd | https://procrd.org
+Shellsec forum | https://www.shellsec.pw/index.php
 BHC forums |https://bhcforums.cc
 Darknet |https://darknet.ug
 DarkPID |https://darkpid.com
+Instant Hack | https://instant-hack.to
+Hard TM | https://hard-tm.su
+Romanian /team | https://rstforums.com/forum/
+Leaked Dev | https://leaked.dev
 Getrekt | https://getrekt.me
+Vp spiders | https://vbspiders.com/vb/
 Veryleaks |https://veryleaks.cz
 Patched |https://patched.to
 Level23 | https://level23hacktools.com/hackers
 IN4 |https://in4.bz
 DangeryThings |https://forum.dangerousthings.com
+SOOM | https://www.soom.cz/hack-forum
 STYX | https://styxmarket.com/accounts/login
 Xleet |https://xleet.pw
 Shadow forum |http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion
