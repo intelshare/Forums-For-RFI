@@ -11,7 +11,7 @@ Breachforums |http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.on
 XSS |xss.is | https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion
 RAMP |Ramp4u.io | https://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
 Exploitin |exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
-Darkforum |darkforums.me
+Darkforum |darkforums.st
 Sinisterly |sinister.ly 
 Niflheim |niflheim.top 
 Nulled | https://www.nulled.to 
