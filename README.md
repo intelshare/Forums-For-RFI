@@ -17,15 +17,18 @@ Niflheim |niflheim.top
 Nulled | https://www.nulled.to 
 Leakbase |https://leakbase.cc
 Zelenka/Lolzteam |https://lzt.market
-RuTOR |https://rutor.org/
+RuTOR |https://rutor.org
 Alphv Forum |https://alphv.ru
 NextGenForums |Nextgenforums.cc
 Evil-Zone |Evil-zone.org
 Darkzone |Darkzone.uk
 Leech Forum |Leech.is
 Leakbase |Leakbase.io
+Cookie | https://coockie.pro
+Darkclub | https://darkclub.cc
 Aletene |altenens.is
 B1nd |B1nd.net
+Dublikat | https://go.dublikat.club
 DemonForum |www.demonforums.net
 Turk Hack Team |turkhackteam.org
 Leakzone |leakzone.com
