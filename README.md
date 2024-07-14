@@ -66,5 +66,21 @@ Xleet |https://xleet.pw
 Shadow forum |http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion
 Spyhacker |spyhackerz.org
 Craxspro |https://craxpro.com
+ForumsTeam |https://forumteam.group/
+Skynet Zone |https://skynetzone.org/
+Gerki |https://gerki.io/
+Lozerix |https://lozerix.com/
+RcClub |http://rcclubcom7eocdlycjjoh2x22edsomny46goacgkeylntp546bekxyad.onion/
+Dark Market |https://darkmarket.cx/
+ProLogic |https://prologic.su/
+Happy Hack |https://happy--hack-net/
+Nohide |https://nohide.space/
+HPC |https://s3.hpc.name/index.html/
+Dark Time |https://dark-time.com/
+DeepWeb |https://deepweb.club/
+DarkClub |https://darkclub.cc/
+Center Club |https://center-club.io/
+Dark2Web |https://gate-2.d2w.site/
+YouHack |https://youhack.co/
 
 
