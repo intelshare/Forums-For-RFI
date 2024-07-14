@@ -8,30 +8,30 @@ Tables:
 |---|---|---|
 |   |   |   |
 Breachforums |http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion
-XSS |xss.is | https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion
-RAMP |Ramp4u.io | https://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
-Exploitin |exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
-Darkforum |darkforums.st
-Sinisterly |sinister.ly 
-Niflheim |niflheim.top 
+XSS |https://xss.is | https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion
+RAMP |https://Ramp4u.io | https://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
+Exploitin |https://exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
+Darkforum |https://darkforums.st
+Sinisterly |https://sinister.ly 
+Niflheim |https://niflheim.top 
 Nulled | https://www.nulled.to 
 Leakbase |https://leakbase.cc
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org
 Alphv Forum |https://alphv.ru
 NextGenForums |Nextgenforums.cc
-Evil-Zone |Evil-zone.org
-Darkzone |Darkzone.uk
+Evil-Zone |https://Evil-zone.org
+Darkzone |https://Darkzone.uk
 Leech Forum |Leech.is
-Leakbase |Leakbase.io
+Leakbase |https://Leakbase.io
 Cookie | https://coockie.pro
 Darkclub | https://darkclub.cc
-Aletene |altenens.is
-B1nd |B1nd.net
+Aletene |https://altenens.is
+B1nd |https://B1nd.net
 Dublikat | https://go.dublikat.club
-DemonForum |www.demonforums.net
-Turk Hack Team |turkhackteam.org
-Leakzone |leakzone.com
+DemonForum |https://www.demonforums.net
+Turk Hack Team |https://turkhackteam.org
+Leakzone |https://leakzone.com
 Hackonology |hackonology.com
 Hackforums |hackforums.net
 Noirth |noirth.com 
@@ -64,7 +64,7 @@ SOOM | https://www.soom.cz/hack-forum
 STYX | https://styxmarket.com/accounts/login
 Xleet |https://xleet.pw
 Shadow forum |http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion
-Spyhacker |spyhackerz.org
+Spyhacker |https://spyhackerz.org
 Craxspro |https://craxpro.com
 ForumsTeam |https://forumteam.group/
 Skynet Zone |https://skynetzone.org/
