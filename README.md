@@ -82,5 +82,6 @@ DarkClub |https://darkclub.cc/
 Center Club |https://center-club.io/
 Dark2Web |https://gate-2.d2w.site/
 YouHack |https://youhack.co/
+Boo forum |https://boo.wf/
 
 
