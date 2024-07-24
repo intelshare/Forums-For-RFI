@@ -87,5 +87,7 @@ YouHack |https://youhack.co/
 Boo forum |https://boo.wf/
 WildNight Leak Group | http://wildiwm3qehwf3crup56nas2lekyearoncoebldodjoqcs57dit5jkyd.onion
 Darknet Army | http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/
+Stressed Forums | https://stressedforums.pw/
+Crimestate | https://crimestate.cc/
  
 
