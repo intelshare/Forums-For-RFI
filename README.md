@@ -89,5 +89,6 @@ WildNight Leak Group | http://wildiwm3qehwf3crup56nas2lekyearoncoebldodjoqcs57di
 Darknet Army | http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/
 Stressed Forums | https://stressedforums.pw/
 Crimestate | https://crimestate.cc/
+Darkweb Mafias | https://darkwebmafias.com/
  
 
