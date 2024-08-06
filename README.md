@@ -90,5 +90,5 @@ Darknet Army | http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.o
 Stressed Forums | https://stressedforums.pw/
 Crimestate | https://crimestate.cc/
 Darkweb Mafias | https://darkwebmafias.com/
- 
+DarkPro | https://darkpro.net/
 
