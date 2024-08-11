@@ -91,5 +91,5 @@ Stressed Forums | https://stressedforums.pw/
 Crimestate | https://crimestate.cc/
 Darkweb Mafias | https://darkwebmafias.com/
 DarkPro | https://darkpro.net/
-Darkweb Syndicate |Not active http://krv4on3wxykre5zqvdoct6nvzsuf3amvucknf53vh5gaz7ebioyeo6id.onion/
+Darkweb Syndicate |Coming soon http://krv4on3wxykre5zqvdoct6nvzsuf3amvucknf53vh5gaz7ebioyeo6id.onion/
 
