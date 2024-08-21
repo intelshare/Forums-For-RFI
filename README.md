@@ -95,4 +95,5 @@ Darkweb Syndicate |Coming soon http://krv4on3wxykre5zqvdoct6nvzsuf3amvucknf53vh5
 Redface | https://redface.site/ | http://w5tnhtn5wm7o3nbs2d33myouokylxbropp4y3kqwtrulax2tvw4nxdid.onion/
 Leakforum | https://leakforum.pw/register/
 ReBreached forum | https://rebreached.vc/ | http://rebreachkpk2puirm3gwje7hatarklyyvddmose74vycsjvfitnousyd.onion/
+Ajanlar forum | https://ajanlar.org/
 
