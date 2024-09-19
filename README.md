@@ -99,3 +99,4 @@ Ajanlar forum | https://ajanlar.org/
 Blackforums part3 | https://blackforums.ru/
 Runion | https://runion.su/
 Dataforums | https://dataforums.su/
+Hacktools Vault | https://www.malvult.net
