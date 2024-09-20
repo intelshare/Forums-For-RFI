@@ -100,3 +100,6 @@ Blackforums part3 | https://blackforums.ru/
 Runion | https://runion.su/
 Dataforums | https://dataforums.su/
 Hacktools Vault | https://www.malvult.net
+Onniforums | https://onniforums.com/
+CryptBB forums | http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/
+
