@@ -105,4 +105,6 @@ CryptBB forums | http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid
 BHF Pro | https://bhf.pro/
 Hell of Hackers | http://hellhoh5o35sylxrpfu45p5r74n2lzvirnvszmziuvn7bcejlynaqxyd.onion/ | https://hellofhackers.com/
 RuTor Dark | https://rutordark.net/
+Exe is | https://exe.is/
+
 
