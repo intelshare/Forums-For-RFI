@@ -21,7 +21,7 @@ Leakbase |https://leakbase.cc
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org
 Alphv Forum |https://alphv.ru
-NextGenForums |Nextgenforums.cc
+NextGenForums | https://Nextgenforums.cc
 Evil-Zone |https://Evil-zone.org
 Darkzone |https://Darkzone.uk
 Leech Forum |Leech.is
@@ -34,8 +34,8 @@ Dublikat | https://go.dublikat.club
 DemonForum |https://www.demonforums.net
 Turk Hack Team |https://turkhackteam.org
 Leakzone |https://leakzone.com
-Hackonology |hackonology.com
-Hackforums |hackforums.net
+Hackonology | https://hackonology.com/
+Hackforums | https://hackforums.net/
 Noirth |noirth.com 
 LeadLab |https://leadlab.top/index.php
 Raidforums|Raidforum.co
@@ -107,5 +107,11 @@ Hell of Hackers | http://hellhoh5o35sylxrpfu45p5r74n2lzvirnvszmziuvn7bcejlynaqxy
 RuTor Dark | https://rutordark.net/
 Mazafaka new domain | https://mazaforum.cc/ https://mazaclub.pro/ | http://mfclubxckm7qv3bjee6dquzb4b3wbv3tnxhsuvjm2brx53vgacgp5ryd.onion/
 Exe is | https://exe.is/
+Pyrex Guru| https://pyrex.guru/
+Mehack | https://mehack.su/
+Darkwebmarket | https://darkwebmarket.cc/
+Crackingx | https://crackingx.com/
+Validmarket | https://validmarket.io/
+Blackhatrussia | http://blackhatrussia.com/
 
 
