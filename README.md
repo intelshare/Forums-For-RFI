@@ -113,5 +113,6 @@ Darkwebmarket | https://darkwebmarket.cc/
 Crackingx | https://crackingx.com/
 Validmarket | https://validmarket.io/
 Blackhatrussia | http://blackhatrussia.com/
+CyberBreach | https://cyberbreach.io
 
 
