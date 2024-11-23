@@ -115,5 +115,6 @@ Validmarket | https://validmarket.io/
 Blackhatrussia | http://blackhatrussia.com/
 CyberBreach | https://cyberbreach.io
 Omnia | https://omnia.st
+Dangerzone | https://dangerzone.cx
 
 
