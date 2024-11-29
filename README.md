@@ -113,8 +113,10 @@ Darkwebmarket | https://darkwebmarket.cc/
 Crackingx | https://crackingx.com/
 Validmarket | https://validmarket.io/
 Blackhatrussia | http://blackhatrussia.com/
-CyberBreach | https://cyberbreach.io
-Omnia | https://omnia.st
-Dangerzone | https://dangerzone.cx
+CyberBreach | https://cyberbreach.io/
+Omnia | https://omnia.st/
+Dangerzone | https://dangerzone.cx/
+Rutor Forum | https://rutorforum.at/
+Navik  | https://navik.link
 
 
