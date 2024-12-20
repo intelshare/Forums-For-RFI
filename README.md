@@ -118,6 +118,6 @@ Omnia | https://omnia.st/
 Dangerzone | https://dangerzone.cx/
 Rutor Forum | https://rutorforum.at/
 Navik  | https://navik.link
-RPC network | https://rpc-ether.network/
+Card HQ network | https://rpc-ether.network/ | https://cardhq.pro/
 
 
