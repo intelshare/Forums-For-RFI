@@ -119,5 +119,6 @@ Dangerzone | https://dangerzone.cx/
 Rutor Forum | https://rutorforum.at/
 Navik  | https://navik.link
 Card HQ network | https://rpc-ether.network/ | https://cardhq.pro/
+Xakerplus | https://x.xakerplus.com
 
 
