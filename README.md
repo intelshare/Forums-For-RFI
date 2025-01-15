@@ -121,5 +121,6 @@ Navik  | https://navik.link
 Card HQ network | https://rpc-ether.network/ | https://cardhq.pro/
 Xakerplus | https://x.xakerplus.com
 Alligator forum | https://alligator.money
+BigFAT | https://bigfat.chat
 
 
