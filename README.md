@@ -16,7 +16,7 @@ Exploitin |https://exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsv
 Darkforum |https://darkforums.st
 Sinisterly |https://sinister.ly 
 Niflheim |https://niflheim.top 
-Nulled | https://www.nulled.to 
+Nulled | https://www.nulled.to | Raided by FBI 
 Leakbase |https://leakbase.cc
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org
