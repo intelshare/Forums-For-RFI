@@ -123,5 +123,7 @@ Xakerplus | https://x.xakerplus.com
 Alligator forum | https://alligator.money
 BigFAT | https://bigfat.chat
 Funkforum | http://funk4ph7igelwpgadmus4n4moyhh22cib723hllneen7g2qkklml4sqd.onion/
+PSHACK | https://pshack.org
+Purge Forum | Purge.to | http://purget63s2buffp2zmjwvztixj3e4fygnkxoydgcl24bzxpcyd2cmpid.onion
 
 
