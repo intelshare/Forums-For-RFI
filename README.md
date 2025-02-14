@@ -67,7 +67,7 @@ STYX | https://styxmarket.com/accounts/login
 Xleet |https://xleet.pw
 Shadow forum |http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion
 Spyhacker |https://spyhackerz.org
-Craxspro |https://craxpro.com
+Craxpro |https://craxpro.to
 ForumsTeam |https://forumteam.group/
 Skynet Zone |https://skynetzone.org/
 Gerki |https://gerki.io/
