@@ -127,4 +127,6 @@ PSHACK | https://pshack.org
 Purge Forum | Purge.to | http://purget63s2buffp2zmjwvztixj3e4fygnkxoydgcl24bzxpcyd2cmpid.onion
 Endway  | https://endway.org
 Voided | https://voided.to/
+Leakforum | https://leakforum.cc/
+Xreactor | https://xreactor.org
 
