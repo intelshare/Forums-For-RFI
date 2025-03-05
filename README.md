@@ -16,7 +16,7 @@ Exploitin |https://exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsv
 Darkforum |https://darkforums.st
 Sinisterly |https://sinister.ly 
 Niflheim |https://niflheim.top 
-Nulled | https://www.nulled.to | Raided by FBI 
+Nulled ❌| https://www.nulled.to | Raided by FBI 
 Leakbase |https://leakbase.cc
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org
@@ -124,7 +124,7 @@ Alligator forum | https://alligator.money
 BigFAT | https://bigfat.chat
 Funkforum | http://funk4ph7igelwpgadmus4n4moyhh22cib723hllneen7g2qkklml4sqd.onion/
 PSHACK | https://pshack.org
-Purge Forum | Purge.to | http://purget63s2buffp2zmjwvztixj3e4fygnkxoydgcl24bzxpcyd2cmpid.onion | Gone
+Purge Forum ❌ | Purge.to | http://purget63s2buffp2zmjwvztixj3e4fygnkxoydgcl24bzxpcyd2cmpid.onion | Gone
 Endway  | https://endway.org
 Voided | https://voided.to/
 Leakforum | https://leakforum.cc/
